@@ -1,4 +1,5 @@
 # CodeWars
 My work on CodeWars
 
-#This is my edit
+# Continuous Integration
+This is building on Travis CI and running my test at [codewars](https://travis-ci.org/LingDatDatDing/CodeWars)
